@@ -1,0 +1,29 @@
+body{
+    color:blue;
+    background-color: lightblue;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    border-radius: 20px;
+}
+#camera{
+    border:2px ridge black;
+    width: 350px;
+    height:300px;
+}
+.name_of_people{
+    color:orange;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+#result_person_name, #result_person_accuracy{
+color: lightskyblue;
+}
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    color:blue;
+}
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
